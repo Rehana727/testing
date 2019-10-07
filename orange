@@ -1,0 +1,6 @@
+#inslude<stdio.h>
+{
+printf (a,b)
+scanf (10,20)
+sum(a+b)
+}
